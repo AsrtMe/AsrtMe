@@ -1,0 +1,51 @@
+name: Update the grimoire
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/update_stats.py'
+      - 'tests/**'
+      - '.github/workflows/update-stats.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: grimoire-stats-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.repository == 'AsrtMe/AsrtMe'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out the profile
+        # actions/checkout v7.0.1; verified against its upstream GitHub tag.
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+
+      - name: Check the statistics generator
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Refresh public profile data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/update_stats.py --user AsrtMe
+
+      - name: Commit changed panels
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add assets/stats.svg assets/stats-mobile.svg assets/activity.svg assets/activity-mobile.svg assets/stats-data.json
+          if git diff --cached --quiet; then
+            echo "The grimoire is already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update grimoire statistics"
+          git push
