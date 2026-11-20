@@ -2,10 +2,6 @@
   "calendar": [
     {
       "count": 0,
-      "date": "2025-11-20"
-    },
-    {
-      "count": 0,
       "date": "2025-11-21"
     },
     {
@@ -1459,11 +1455,15 @@
     {
       "count": 0,
       "date": "2026-11-19"
+    },
+    {
+      "count": 4,
+      "date": "2026-11-20"
     }
   ],
   "calendar_status": "available",
   "counts": {
-    "contributions": 33,
+    "contributions": 37,
     "public_projects": 1,
     "stars": 0
   },
@@ -1476,18 +1476,14 @@
   "login": "AsrtMe",
   "period": {
     "days": 365,
-    "end": "2026-11-19",
-    "start": "2025-11-20",
+    "end": "2026-11-20",
+    "start": "2025-11-21",
     "timezone": "UTC"
   },
   "schema_version": 1,
   "source": {
-    "calendar_urls": [
-      "https://github.com/users/AsrtMe/contributions?from=2025-01-01&to=2025-12-31",
-      "https://github.com/users/AsrtMe/contributions?from=2026-01-01&to=2026-12-31"
-    ],
-    "checked_on": "2026-11-19",
-    "kind": "github_public_snapshot",
-    "repositories_url": "https://api.github.com/users/AsrtMe/repos"
+    "checked_on": "2026-11-20",
+    "endpoint": "https://api.github.com/graphql",
+    "kind": "github_graphql"
   }
 }
