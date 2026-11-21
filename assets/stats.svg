@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="308" viewBox="0 0 1000 308" role="img" aria-labelledby="title desc">
-<title id="title">Летопись AsrtMe — статистика GitHub</title><desc id="desc">AsrtMe. Вклады за 365 дней: 37. Публичные проекты: 1. Получено звёзд: 0. Период 21.11.2025 — 20.11.2026, UTC. Собственные публичные репозитории без форков и без одноимённого репозитория профиля; архивные проекты включены.</desc>
+<title id="title">Летопись AsrtMe — статистика GitHub</title><desc id="desc">AsrtMe. Вклады за 365 дней: 38. Публичные проекты: 1. Получено звёзд: 0. Период 22.11.2025 — 21.11.2026, UTC. Собственные публичные репозитории без форков и без одноимённого репозитория профиля; архивные проекты включены.</desc>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#120a0e"/><stop offset=".55" stop-color="#08090d"/><stop offset="1" stop-color="#210c13"/></linearGradient><linearGradient id="edge"><stop stop-color="#70202e"/><stop offset=".5" stop-color="#e2535a"/><stop offset="1" stop-color="#70202e"/></linearGradient></defs>
 <rect x="1" y="1" width="998" height="306" rx="12" fill="url(#bg)" stroke="#5f202d"/>
 <path d="M36 12H964L988 36V272L964 296H36L12 272V36Z" fill="none" stroke="#782837" stroke-width=".8"/>
 <path d="M25 55V25H55 M945 25H975V55 M25 253V283H55 M945 283H975V253" fill="none" stroke="#d84d58" stroke-width="1.2"/>
 <text x="46" y="59" font-family="Georgia, 'Times New Roman', serif" font-size="37" font-weight="400" fill="#f0dfce" text-anchor="start">Летопись</text>
-<text x="951" y="56" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="400" fill="#b89896" text-anchor="end">21.11.2025 — 20.11.2026 · UTC</text>
+<text x="951" y="56" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="400" fill="#b89896" text-anchor="end">22.11.2025 — 21.11.2026 · UTC</text>
 <path d="M46 82H954" stroke="url(#edge)" stroke-width=".9"/>
 <path d="M345 112V242 M655 112V242" stroke="#52212b"/>
 <path d="M184 103L190 97L196 103L190 109Z" fill="#cb3f50"/>
 <text x="190" y="142" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="400" fill="#e3c9bf" text-anchor="middle">Вклады за 365 дней</text>
-<text x="190" y="215" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="400" fill="#ffeadb" text-anchor="middle">37</text>
+<text x="190" y="215" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="400" fill="#ffeadb" text-anchor="middle">38</text>
 <path d="M494 103L500 97L506 103L500 109Z" fill="#cb3f50"/>
 <text x="500" y="142" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="400" fill="#e3c9bf" text-anchor="middle">Публичные проекты</text>
 <text x="500" y="215" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="400" fill="#ffeadb" text-anchor="middle">1</text>
