@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="298" viewBox="0 0 1000 298" role="img" aria-labelledby="title desc">
-<title id="title">Гримуар — рунический календарь активности</title><desc id="desc">Календарь вкладов GitHub за 365 дней. Столбцы — недели, строки — дни с понедельника по воскресенье. Каждая руна — один день; более яркий красный цвет означает больше вкладов. Период 22.11.2025 — 21.11.2026, UTC. </desc>
+<title id="title">Гримуар — рунический календарь активности</title><desc id="desc">Календарь вкладов GitHub за 365 дней. Столбцы — недели, строки — дни с понедельника по воскресенье. Каждая руна — один день; более яркий красный цвет означает больше вкладов. Период 23.11.2025 — 22.11.2026, UTC. </desc>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#120a0e"/><stop offset=".55" stop-color="#08090d"/><stop offset="1" stop-color="#210c13"/></linearGradient><linearGradient id="edge"><stop stop-color="#70202e"/><stop offset=".5" stop-color="#e2535a"/><stop offset="1" stop-color="#70202e"/></linearGradient></defs>
 <rect x="1" y="1" width="998" height="296" rx="12" fill="url(#bg)" stroke="#5f202d"/>
 <path d="M36 12H964L988 36V262L964 286H36L12 262V36Z" fill="none" stroke="#782837" stroke-width=".8"/>
@@ -12,7 +12,6 @@
 <text x="65" y="180" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="400" fill="#ae8a90" text-anchor="end">Пт</text>
 <text x="65" y="212" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="400" fill="#ae8a90" text-anchor="end">Вс</text>
 <text x="81" y="95" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="400" fill="#bf9ba0" text-anchor="start">ноя</text>
-<path d="M86 186.0L92.0 192L86 198.0L80.0 192Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>22.11.2025: 0 вкладов</title></path>
 <path d="M86 202.0L92.0 208L86 214.0L80.0 208Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>23.11.2025: 0 вкладов</title></path>
 <path d="M102 106.0L108.0 112L102 118.0L96.0 112Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>24.11.2025: 0 вкладов</title></path>
 <path d="M102 122.0L108.0 128L102 134.0L96.0 128Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>25.11.2025: 0 вкладов</title></path>
@@ -389,6 +388,7 @@
 <path d="M918 154.0L924.0 160L918 166.0L912.0 160Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>19.11.2026: 0 вкладов</title></path>
 <path d="M918 170.0L924.0 176L918 182.0L912.0 176Z" fill="#a52538" stroke="#6c2432" stroke-width=".6"><title>20.11.2026: 5 вкладов</title></path>
 <path d="M918 186.0L924.0 192L918 198.0L912.0 192Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>21.11.2026: 0 вкладов</title></path>
+<path d="M918 202.0L924.0 208L918 214.0L912.0 208Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>22.11.2026: 0 вкладов</title></path>
 <path d="M552 236l6 6-6 6-6-6Z" fill="#1c1014" stroke="#682332" stroke-width=".6"/>
 <text x="564" y="247" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="400" fill="#c7a6a9" text-anchor="start">0</text>
 <path d="M629 236l6 6-6 6-6-6Z" fill="#5c1623" stroke="#682332" stroke-width=".6"/>
@@ -400,5 +400,5 @@
 <path d="M860 236l6 6-6 6-6-6Z" fill="#ff8279" stroke="#682332" stroke-width=".6"/>
 <text x="872" y="247" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="400" fill="#c7a6a9" text-anchor="start">10+</text>
 <text x="46" y="248" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="400" fill="#bb989d" text-anchor="start">Каждая руна — один день</text>
-<text x="64" y="280" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="400" fill="#a8898f" text-anchor="start">Вклады, видимые в календаре GitHub · 22.11.2025 — 21.11.2026</text>
+<text x="64" y="280" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="400" fill="#a8898f" text-anchor="start">Вклады, видимые в календаре GitHub · 23.11.2025 — 22.11.2026</text>
 </svg>
