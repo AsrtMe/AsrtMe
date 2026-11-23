@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="532" viewBox="0 0 420 532" role="img" aria-labelledby="title desc">
-<title id="title">Летопись AsrtMe — статистика GitHub</title><desc id="desc">AsrtMe. Вклады за 365 дней: 38. Публичные проекты: 1. Получено звёзд: 0. Период 23.11.2025 — 22.11.2026, UTC. Собственные публичные репозитории без форков и без одноимённого репозитория профиля; архивные проекты включены.</desc>
+<title id="title">Летопись AsrtMe — статистика GitHub</title><desc id="desc">AsrtMe. Вклады за 365 дней: 38. Публичные проекты: 1. Получено звёзд: 0. Период 24.11.2025 — 23.11.2026, UTC. Собственные публичные репозитории без форков и без одноимённого репозитория профиля; архивные проекты включены.</desc>
 <defs><linearGradient id="mobilebg" x2="1" y2="1"><stop stop-color="#160b10"/><stop offset=".6" stop-color="#08090d"/><stop offset="1" stop-color="#250d15"/></linearGradient></defs>
 <rect x="1" y="1" width="418" height="530" rx="12" fill="url(#mobilebg)" stroke="#782837"/>
 <path d="M24 10H396L410 24V508L396 522H24L10 508V24Z" fill="none" stroke="#5f202d"/>
 <text x="210" y="49" font-family="Georgia, 'Times New Roman', serif" font-size="35" font-weight="400" fill="#f0dfce" text-anchor="middle">Летопись</text>
-<text x="210" y="76" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="400" fill="#b89896" text-anchor="middle">23.11.2025 — 22.11.2026 · UTC</text>
+<text x="210" y="76" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="400" fill="#b89896" text-anchor="middle">24.11.2025 — 23.11.2026 · UTC</text>
 <path d="M30 97H390" stroke="#6e2735"/>
 <path d="M204 97l6-5 6 5-6 5Z" fill="#cf4351"/>
 <text x="210" y="126" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="400" fill="#e3c9bf" text-anchor="middle">Вклады за 365 дней</text>
