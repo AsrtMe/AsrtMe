@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="337" viewBox="0 0 420 337" role="img" aria-labelledby="title desc">
-<title id="title">Гримуар — календарь последних 13 недель</title><desc id="desc">Последние 13 календарных недель, включая текущую неполную неделю. Столбцы — недели, строки — дни с понедельника по воскресенье. Период 31.08.2026 — 23.11.2026, UTC. Статистика вкладов в основном блоке охватывает все 365 дней.</desc>
+<title id="title">Гримуар — календарь последних 13 недель</title><desc id="desc">Последние 13 календарных недель, включая текущую неполную неделю. Столбцы — недели, строки — дни с понедельника по воскресенье. Период 31.08.2026 — 24.11.2026, UTC. Статистика вкладов в основном блоке охватывает все 365 дней.</desc>
 <defs><linearGradient id="mobilebg" x2="1" y2="1"><stop stop-color="#160b10"/><stop offset=".6" stop-color="#08090d"/><stop offset="1" stop-color="#250d15"/></linearGradient></defs>
 <rect x="1" y="1" width="418" height="335" rx="12" fill="url(#mobilebg)" stroke="#782837"/>
 <path d="M24 10H396L410 24V313L396 327H24L10 313V24Z" fill="none" stroke="#5f202d"/>
@@ -50,20 +50,20 @@
 <path d="M198 151.0L206.0 159L198 167.0L190.0 159Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>07.10.2026: 0 вкладов</title></path>
 <path d="M198 174.0L206.0 182L198 190.0L190.0 182Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>08.10.2026: 0 вкладов</title></path>
 <path d="M198 197.0L206.0 205L198 213.0L190.0 205Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>09.10.2026: 0 вкладов</title></path>
-<path d="M198 220.0L206.0 228L198 236.0L190.0 228Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>10.10.2026: 0 вкладов</title></path>
+<path d="M198 220.0L206.0 228L198 236.0L190.0 228Z" fill="#a52538" stroke="#6c2432" stroke-width=".7"><title>10.10.2026: 3 вкладов</title></path>
 <path d="M198 243.0L206.0 251L198 259.0L190.0 251Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>11.10.2026: 0 вкладов</title></path>
 <path d="M221 105.0L229.0 113L221 121.0L213.0 113Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>12.10.2026: 0 вкладов</title></path>
 <path d="M221 128.0L229.0 136L221 144.0L213.0 136Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>13.10.2026: 0 вкладов</title></path>
-<path d="M221 151.0L229.0 159L221 167.0L213.0 159Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>14.10.2026: 0 вкладов</title></path>
-<path d="M221 174.0L229.0 182L221 190.0L213.0 182Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>15.10.2026: 0 вкладов</title></path>
+<path d="M221 151.0L229.0 159L221 167.0L213.0 159Z" fill="#5c1623" stroke="#6c2432" stroke-width=".7"><title>14.10.2026: 2 вкладов</title></path>
+<path d="M221 174.0L229.0 182L221 190.0L213.0 182Z" fill="#5c1623" stroke="#6c2432" stroke-width=".7"><title>15.10.2026: 1 вкладов</title></path>
 <path d="M221 197.0L229.0 205L221 213.0L213.0 205Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>16.10.2026: 0 вкладов</title></path>
 <path d="M221 220.0L229.0 228L221 236.0L213.0 228Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>17.10.2026: 0 вкладов</title></path>
-<path d="M221 243.0L229.0 251L221 259.0L213.0 251Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>18.10.2026: 0 вкладов</title></path>
-<path d="M244 105.0L252.0 113L244 121.0L236.0 113Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>19.10.2026: 0 вкладов</title></path>
+<path d="M221 243.0L229.0 251L221 259.0L213.0 251Z" fill="#5c1623" stroke="#6c2432" stroke-width=".7"><title>18.10.2026: 1 вкладов</title></path>
+<path d="M244 105.0L252.0 113L244 121.0L236.0 113Z" fill="#5c1623" stroke="#6c2432" stroke-width=".7"><title>19.10.2026: 2 вкладов</title></path>
 <path d="M244 128.0L252.0 136L244 144.0L236.0 136Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>20.10.2026: 0 вкладов</title></path>
 <path d="M244 151.0L252.0 159L244 167.0L236.0 159Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>21.10.2026: 0 вкладов</title></path>
-<path d="M244 174.0L252.0 182L244 190.0L236.0 182Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>22.10.2026: 0 вкладов</title></path>
-<path d="M244 197.0L252.0 205L244 213.0L236.0 205Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>23.10.2026: 0 вкладов</title></path>
+<path d="M244 174.0L252.0 182L244 190.0L236.0 182Z" fill="#a52538" stroke="#6c2432" stroke-width=".7"><title>22.10.2026: 5 вкладов</title></path>
+<path d="M244 197.0L252.0 205L244 213.0L236.0 205Z" fill="#a52538" stroke="#6c2432" stroke-width=".7"><title>23.10.2026: 5 вкладов</title></path>
 <path d="M244 220.0L252.0 228L244 236.0L236.0 228Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>24.10.2026: 0 вкладов</title></path>
 <path d="M244 243.0L252.0 251L244 259.0L236.0 251Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>25.10.2026: 0 вкладов</title></path>
 <path d="M267 105.0L275.0 113L267 121.0L259.0 113Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>26.10.2026: 0 вкладов</title></path>
@@ -76,7 +76,7 @@
 <path d="M290 105.0L298.0 113L290 121.0L282.0 113Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>02.11.2026: 0 вкладов</title></path>
 <path d="M290 128.0L298.0 136L290 144.0L282.0 136Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>03.11.2026: 0 вкладов</title></path>
 <path d="M290 151.0L298.0 159L290 167.0L282.0 159Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>04.11.2026: 0 вкладов</title></path>
-<path d="M290 174.0L298.0 182L290 190.0L282.0 182Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>05.11.2026: 0 вкладов</title></path>
+<path d="M290 174.0L298.0 182L290 190.0L282.0 182Z" fill="#5c1623" stroke="#6c2432" stroke-width=".7"><title>05.11.2026: 1 вкладов</title></path>
 <path d="M290 197.0L298.0 205L290 213.0L282.0 205Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>06.11.2026: 0 вкладов</title></path>
 <path d="M290 220.0L298.0 228L290 236.0L282.0 228Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>07.11.2026: 0 вкладов</title></path>
 <path d="M290 243.0L298.0 251L290 259.0L282.0 251Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>08.11.2026: 0 вкладов</title></path>
@@ -86,7 +86,7 @@
 <path d="M313 174.0L321.0 182L313 190.0L305.0 182Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>12.11.2026: 0 вкладов</title></path>
 <path d="M313 197.0L321.0 205L313 213.0L305.0 205Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>13.11.2026: 0 вкладов</title></path>
 <path d="M313 220.0L321.0 228L313 236.0L305.0 228Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>14.11.2026: 0 вкладов</title></path>
-<path d="M313 243.0L321.0 251L313 259.0L305.0 251Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>15.11.2026: 0 вкладов</title></path>
+<path d="M313 243.0L321.0 251L313 259.0L305.0 251Z" fill="#5c1623" stroke="#6c2432" stroke-width=".7"><title>15.11.2026: 1 вкладов</title></path>
 <path d="M336 105.0L344.0 113L336 121.0L328.0 113Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>16.11.2026: 0 вкладов</title></path>
 <path d="M336 128.0L344.0 136L336 144.0L328.0 136Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>17.11.2026: 0 вкладов</title></path>
 <path d="M336 151.0L344.0 159L336 167.0L328.0 159Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>18.11.2026: 0 вкладов</title></path>
@@ -95,6 +95,7 @@
 <path d="M336 220.0L344.0 228L336 236.0L328.0 228Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>21.11.2026: 0 вкладов</title></path>
 <path d="M336 243.0L344.0 251L336 259.0L328.0 251Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>22.11.2026: 0 вкладов</title></path>
 <path d="M359 105.0L367.0 113L359 121.0L351.0 113Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>23.11.2026: 0 вкладов</title></path>
+<path d="M359 128.0L367.0 136L359 144.0L351.0 136Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>24.11.2026: 0 вкладов</title></path>
 <path d="M48 277l6 6-6 6-6-6Z" fill="#1c1014" stroke="#682332" stroke-width=".6"/>
 <text x="59" y="288" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="400" fill="#c7a6a9" text-anchor="start">0</text>
 <path d="M120 277l6 6-6 6-6-6Z" fill="#5c1623" stroke="#682332" stroke-width=".6"/>
@@ -105,5 +106,5 @@
 <text x="275" y="288" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="400" fill="#c7a6a9" text-anchor="start">6–9</text>
 <path d="M336 277l6 6-6 6-6-6Z" fill="#ff8279" stroke="#682332" stroke-width=".6"/>
 <text x="347" y="288" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="400" fill="#c7a6a9" text-anchor="start">10+</text>
-<text x="210" y="319" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="400" fill="#a8898f" text-anchor="middle">31.08.2026 — 23.11.2026</text>
+<text x="210" y="319" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="400" fill="#a8898f" text-anchor="middle">31.08.2026 — 24.11.2026</text>
 </svg>

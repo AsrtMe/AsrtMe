@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="298" viewBox="0 0 1000 298" role="img" aria-labelledby="title desc">
-<title id="title">Гримуар — рунический календарь активности</title><desc id="desc">Календарь вкладов GitHub за 365 дней. Столбцы — недели, строки — дни с понедельника по воскресенье. Каждая руна — один день; более яркий красный цвет означает больше вкладов. Период 24.11.2025 — 23.11.2026, UTC. </desc>
+<title id="title">Гримуар — рунический календарь активности</title><desc id="desc">Календарь вкладов GitHub за 365 дней. Столбцы — недели, строки — дни с понедельника по воскресенье. Каждая руна — один день; более яркий красный цвет означает больше вкладов. Период 25.11.2025 — 24.11.2026, UTC. </desc>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#120a0e"/><stop offset=".55" stop-color="#08090d"/><stop offset="1" stop-color="#210c13"/></linearGradient><linearGradient id="edge"><stop stop-color="#70202e"/><stop offset=".5" stop-color="#e2535a"/><stop offset="1" stop-color="#70202e"/></linearGradient></defs>
 <rect x="1" y="1" width="998" height="296" rx="12" fill="url(#bg)" stroke="#5f202d"/>
 <path d="M36 12H964L988 36V262L964 286H36L12 262V36Z" fill="none" stroke="#782837" stroke-width=".8"/>
@@ -12,7 +12,6 @@
 <text x="65" y="180" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="400" fill="#ae8a90" text-anchor="end">Пт</text>
 <text x="65" y="212" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="400" fill="#ae8a90" text-anchor="end">Вс</text>
 <text x="81" y="95" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="400" fill="#bf9ba0" text-anchor="start">ноя</text>
-<path d="M86 106.0L92.0 112L86 118.0L80.0 112Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>24.11.2025: 0 вкладов</title></path>
 <path d="M86 122.0L92.0 128L86 134.0L80.0 128Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>25.11.2025: 0 вкладов</title></path>
 <path d="M86 138.0L92.0 144L86 150.0L80.0 144Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>26.11.2025: 0 вкладов</title></path>
 <path d="M86 154.0L92.0 160L86 166.0L80.0 160Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>27.11.2025: 0 вкладов</title></path>
@@ -342,20 +341,20 @@
 <path d="M806 138.0L812.0 144L806 150.0L800.0 144Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>07.10.2026: 0 вкладов</title></path>
 <path d="M806 154.0L812.0 160L806 166.0L800.0 160Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>08.10.2026: 0 вкладов</title></path>
 <path d="M806 170.0L812.0 176L806 182.0L800.0 176Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>09.10.2026: 0 вкладов</title></path>
-<path d="M806 186.0L812.0 192L806 198.0L800.0 192Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>10.10.2026: 0 вкладов</title></path>
+<path d="M806 186.0L812.0 192L806 198.0L800.0 192Z" fill="#a52538" stroke="#6c2432" stroke-width=".6"><title>10.10.2026: 3 вкладов</title></path>
 <path d="M806 202.0L812.0 208L806 214.0L800.0 208Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>11.10.2026: 0 вкладов</title></path>
 <path d="M822 106.0L828.0 112L822 118.0L816.0 112Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>12.10.2026: 0 вкладов</title></path>
 <path d="M822 122.0L828.0 128L822 134.0L816.0 128Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>13.10.2026: 0 вкладов</title></path>
-<path d="M822 138.0L828.0 144L822 150.0L816.0 144Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>14.10.2026: 0 вкладов</title></path>
-<path d="M822 154.0L828.0 160L822 166.0L816.0 160Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>15.10.2026: 0 вкладов</title></path>
+<path d="M822 138.0L828.0 144L822 150.0L816.0 144Z" fill="#5c1623" stroke="#6c2432" stroke-width=".6"><title>14.10.2026: 2 вкладов</title></path>
+<path d="M822 154.0L828.0 160L822 166.0L816.0 160Z" fill="#5c1623" stroke="#6c2432" stroke-width=".6"><title>15.10.2026: 1 вкладов</title></path>
 <path d="M822 170.0L828.0 176L822 182.0L816.0 176Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>16.10.2026: 0 вкладов</title></path>
 <path d="M822 186.0L828.0 192L822 198.0L816.0 192Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>17.10.2026: 0 вкладов</title></path>
-<path d="M822 202.0L828.0 208L822 214.0L816.0 208Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>18.10.2026: 0 вкладов</title></path>
-<path d="M838 106.0L844.0 112L838 118.0L832.0 112Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>19.10.2026: 0 вкладов</title></path>
+<path d="M822 202.0L828.0 208L822 214.0L816.0 208Z" fill="#5c1623" stroke="#6c2432" stroke-width=".6"><title>18.10.2026: 1 вкладов</title></path>
+<path d="M838 106.0L844.0 112L838 118.0L832.0 112Z" fill="#5c1623" stroke="#6c2432" stroke-width=".6"><title>19.10.2026: 2 вкладов</title></path>
 <path d="M838 122.0L844.0 128L838 134.0L832.0 128Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>20.10.2026: 0 вкладов</title></path>
 <path d="M838 138.0L844.0 144L838 150.0L832.0 144Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>21.10.2026: 0 вкладов</title></path>
-<path d="M838 154.0L844.0 160L838 166.0L832.0 160Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>22.10.2026: 0 вкладов</title></path>
-<path d="M838 170.0L844.0 176L838 182.0L832.0 176Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>23.10.2026: 0 вкладов</title></path>
+<path d="M838 154.0L844.0 160L838 166.0L832.0 160Z" fill="#a52538" stroke="#6c2432" stroke-width=".6"><title>22.10.2026: 5 вкладов</title></path>
+<path d="M838 170.0L844.0 176L838 182.0L832.0 176Z" fill="#a52538" stroke="#6c2432" stroke-width=".6"><title>23.10.2026: 5 вкладов</title></path>
 <path d="M838 186.0L844.0 192L838 198.0L832.0 192Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>24.10.2026: 0 вкладов</title></path>
 <path d="M838 202.0L844.0 208L838 214.0L832.0 208Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>25.10.2026: 0 вкладов</title></path>
 <path d="M854 106.0L860.0 112L854 118.0L848.0 112Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>26.10.2026: 0 вкладов</title></path>
@@ -369,7 +368,7 @@
 <path d="M870 106.0L876.0 112L870 118.0L864.0 112Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>02.11.2026: 0 вкладов</title></path>
 <path d="M870 122.0L876.0 128L870 134.0L864.0 128Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>03.11.2026: 0 вкладов</title></path>
 <path d="M870 138.0L876.0 144L870 150.0L864.0 144Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>04.11.2026: 0 вкладов</title></path>
-<path d="M870 154.0L876.0 160L870 166.0L864.0 160Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>05.11.2026: 0 вкладов</title></path>
+<path d="M870 154.0L876.0 160L870 166.0L864.0 160Z" fill="#5c1623" stroke="#6c2432" stroke-width=".6"><title>05.11.2026: 1 вкладов</title></path>
 <path d="M870 170.0L876.0 176L870 182.0L864.0 176Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>06.11.2026: 0 вкладов</title></path>
 <path d="M870 186.0L876.0 192L870 198.0L864.0 192Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>07.11.2026: 0 вкладов</title></path>
 <path d="M870 202.0L876.0 208L870 214.0L864.0 208Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>08.11.2026: 0 вкладов</title></path>
@@ -379,7 +378,7 @@
 <path d="M886 154.0L892.0 160L886 166.0L880.0 160Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>12.11.2026: 0 вкладов</title></path>
 <path d="M886 170.0L892.0 176L886 182.0L880.0 176Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>13.11.2026: 0 вкладов</title></path>
 <path d="M886 186.0L892.0 192L886 198.0L880.0 192Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>14.11.2026: 0 вкладов</title></path>
-<path d="M886 202.0L892.0 208L886 214.0L880.0 208Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>15.11.2026: 0 вкладов</title></path>
+<path d="M886 202.0L892.0 208L886 214.0L880.0 208Z" fill="#5c1623" stroke="#6c2432" stroke-width=".6"><title>15.11.2026: 1 вкладов</title></path>
 <path d="M902 106.0L908.0 112L902 118.0L896.0 112Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>16.11.2026: 0 вкладов</title></path>
 <path d="M902 122.0L908.0 128L902 134.0L896.0 128Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>17.11.2026: 0 вкладов</title></path>
 <path d="M902 138.0L908.0 144L902 150.0L896.0 144Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>18.11.2026: 0 вкладов</title></path>
@@ -388,6 +387,7 @@
 <path d="M902 186.0L908.0 192L902 198.0L896.0 192Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>21.11.2026: 0 вкладов</title></path>
 <path d="M902 202.0L908.0 208L902 214.0L896.0 208Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>22.11.2026: 0 вкладов</title></path>
 <path d="M918 106.0L924.0 112L918 118.0L912.0 112Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>23.11.2026: 0 вкладов</title></path>
+<path d="M918 122.0L924.0 128L918 134.0L912.0 128Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".6"><title>24.11.2026: 0 вкладов</title></path>
 <path d="M552 236l6 6-6 6-6-6Z" fill="#1c1014" stroke="#682332" stroke-width=".6"/>
 <text x="564" y="247" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="400" fill="#c7a6a9" text-anchor="start">0</text>
 <path d="M629 236l6 6-6 6-6-6Z" fill="#5c1623" stroke="#682332" stroke-width=".6"/>
@@ -399,5 +399,5 @@
 <path d="M860 236l6 6-6 6-6-6Z" fill="#ff8279" stroke="#682332" stroke-width=".6"/>
 <text x="872" y="247" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="400" fill="#c7a6a9" text-anchor="start">10+</text>
 <text x="46" y="248" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="400" fill="#bb989d" text-anchor="start">Каждая руна — один день</text>
-<text x="64" y="280" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="400" fill="#a8898f" text-anchor="start">Вклады, видимые в календаре GitHub · 24.11.2025 — 23.11.2026</text>
+<text x="64" y="280" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="400" fill="#a8898f" text-anchor="start">Вклады, видимые в календаре GitHub · 25.11.2025 — 24.11.2026</text>
 </svg>
