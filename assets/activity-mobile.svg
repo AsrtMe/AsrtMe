@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="337" viewBox="0 0 420 337" role="img" aria-labelledby="title desc">
-<title id="title">Гримуар — календарь последних 13 недель</title><desc id="desc">Последние 13 календарных недель, включая текущую неполную неделю. Столбцы — недели, строки — дни с понедельника по воскресенье. Период 31.08.2026 — 25.11.2026, UTC. Статистика вкладов в основном блоке охватывает все 365 дней.</desc>
+<title id="title">Гримуар — календарь последних 13 недель</title><desc id="desc">Последние 13 календарных недель, включая текущую неполную неделю. Столбцы — недели, строки — дни с понедельника по воскресенье. Период 31.08.2026 — 26.11.2026, UTC. Статистика вкладов в основном блоке охватывает все 365 дней.</desc>
 <defs><linearGradient id="mobilebg" x2="1" y2="1"><stop stop-color="#160b10"/><stop offset=".6" stop-color="#08090d"/><stop offset="1" stop-color="#250d15"/></linearGradient></defs>
 <rect x="1" y="1" width="418" height="335" rx="12" fill="url(#mobilebg)" stroke="#782837"/>
 <path d="M24 10H396L410 24V313L396 327H24L10 313V24Z" fill="none" stroke="#5f202d"/>
@@ -97,6 +97,7 @@
 <path d="M359 105.0L367.0 113L359 121.0L351.0 113Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>23.11.2026: 0 вкладов</title></path>
 <path d="M359 128.0L367.0 136L359 144.0L351.0 136Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>24.11.2026: 0 вкладов</title></path>
 <path d="M359 151.0L367.0 159L359 167.0L351.0 159Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>25.11.2026: 0 вкладов</title></path>
+<path d="M359 174.0L367.0 182L359 190.0L351.0 182Z" fill="#1c1014" stroke="#3a1b24" stroke-width=".7"><title>26.11.2026: 0 вкладов</title></path>
 <path d="M48 277l6 6-6 6-6-6Z" fill="#1c1014" stroke="#682332" stroke-width=".6"/>
 <text x="59" y="288" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="400" fill="#c7a6a9" text-anchor="start">0</text>
 <path d="M120 277l6 6-6 6-6-6Z" fill="#5c1623" stroke="#682332" stroke-width=".6"/>
@@ -107,5 +108,5 @@
 <text x="275" y="288" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="400" fill="#c7a6a9" text-anchor="start">6–9</text>
 <path d="M336 277l6 6-6 6-6-6Z" fill="#ff8279" stroke="#682332" stroke-width=".6"/>
 <text x="347" y="288" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="400" fill="#c7a6a9" text-anchor="start">10+</text>
-<text x="210" y="319" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="400" fill="#a8898f" text-anchor="middle">31.08.2026 — 25.11.2026</text>
+<text x="210" y="319" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="400" fill="#a8898f" text-anchor="middle">31.08.2026 — 26.11.2026</text>
 </svg>
