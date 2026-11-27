@@ -2,10 +2,6 @@
   "calendar": [
     {
       "count": 0,
-      "date": "2025-11-27"
-    },
-    {
-      "count": 0,
       "date": "2025-11-28"
     },
     {
@@ -1459,6 +1455,10 @@
     {
       "count": 0,
       "date": "2026-11-26"
+    },
+    {
+      "count": 0,
+      "date": "2026-11-27"
     }
   ],
   "calendar_status": "available",
@@ -1476,13 +1476,13 @@
   "login": "AsrtMe",
   "period": {
     "days": 365,
-    "end": "2026-11-26",
-    "start": "2025-11-27",
+    "end": "2026-11-27",
+    "start": "2025-11-28",
     "timezone": "UTC"
   },
   "schema_version": 1,
   "source": {
-    "checked_on": "2026-11-26",
+    "checked_on": "2026-11-27",
     "endpoint": "https://api.github.com/graphql",
     "kind": "github_graphql"
   }
